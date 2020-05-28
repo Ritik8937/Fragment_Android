@@ -20,4 +20,18 @@ Here we are describing the Fragment in details and Lifecycle
 11)	onDestroy()	allows the fragment to do final clean up of fragment state.
 12)	onDetach()	It is called immediately prior to the fragment no longer being associated with its activity.
 
-Rest of the things will be continue later. 
+# Send Data to Fragment From Another Activity
+
+How to Pass Data-  Activity to Fragment
+
+- Two ways to do it
+  1. Bundle object 
+  2. Fragment Object
+  
+Which one is better? 
+- Bundle object is use for Primitive type data type and its better to Fragment Object
+- Fragement object is use fot Non-Primitive data type and Primitive data type. 
+
+
+
+- 
